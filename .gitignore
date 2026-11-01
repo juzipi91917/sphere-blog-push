@@ -1,0 +1,6 @@
+config.json
+sphere_session.json
+.venv/
+__pycache__/
+data/
+work/
